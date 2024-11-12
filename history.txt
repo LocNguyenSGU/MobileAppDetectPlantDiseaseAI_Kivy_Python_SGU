@@ -1,0 +1,842 @@
+Disease Prediction: [[7.4141944e-08 6.2403756e-01 3.7596238e-01]]
+Disease Prediction: [[1.6408798e-07 6.1977983e-01 3.8022009e-01]]
+Disease Prediction: [[2.6719704e-07 6.8857330e-01 3.1142649e-01]]
+Disease Prediction: [[2.9843688e-09 4.9713209e-02 9.5028675e-01]]
+Captured Image - Disease: Bệnh C - 85.91%
+Captured Image - Disease: Bệnh C - 85.49%
+Captured Image - Disease: Bệnh C - 89.24%
+Captured Image - Disease: Bệnh C - 88.31%
+Captured Image - Disease: Bệnh C - 76.73%
+Captured Image - Disease: Bệnh C - 84.02%
+Captured Image - Disease: Bệnh C - 83.19%
+Captured Image - Disease: Bệnh C - 85.48%
+Captured Image - Disease: Bệnh C - 84.45%
+Captured Image - Disease: Bệnh C - 88.75%
+Captured Image - Disease: Bệnh C - 82.10%
+Captured Image - Disease: Bệnh C - 78.43%
+Captured Image - Disease: Bệnh C - 81.66%
+Captured Image - Disease: Bệnh C - 91.37%
+Captured Image - Disease: Bệnh C - 88.12%
+Captured Image - Disease: Bệnh C - 92.98%
+Captured Image - Disease: Bệnh C - 91.94%
+Captured Image - Disease: Bệnh C - 90.30%
+Captured Image - Disease: Bệnh C - 87.65%
+Captured Image - Disease: Bệnh C - 85.73%
+Captured Image - Disease: Bệnh C - 85.56%
+Captured Image - Disease: Bệnh C - 88.76%
+Captured Image - Disease: Bệnh C - 86.85%
+Captured Image - Disease Prediction:
+Bệnh A: 0.00%
+Bệnh B: 7.98%
+Bệnh C: 92.02%
+
+Captured Image - Disease Prediction:
+Bệnh A: 0.00%
+Bệnh B: 7.14%
+Bệnh C: 92.86%
+
+Captured Image - Disease Prediction:
+Bệnh A: 0.00%
+Bệnh B: 9.38%
+Bệnh C: 90.62%
+
+Captured Image - Disease Prediction:
+Bệnh A: 0.00%
+Bệnh B: 8.07%
+Bệnh C: 91.93%
+
+Captured Image - Disease Prediction:
+Bệnh A: 0.00%
+Bệnh B: 12.42%
+Bệnh C: 87.58%
+
+Captured Image - Disease Prediction:
+Bệnh A: 0.00%
+Bệnh B: 22.13%
+Bệnh C: 77.87%
+
+Captured Image - Disease Prediction:
+Bệnh A: 0.00%
+Bệnh B: 27.91%
+Bệnh C: 72.09%
+
+Captured Image - Disease Prediction:
+Bệnh A: 0.00%
+Bệnh B: 29.99%
+Bệnh C: 70.01%
+
+Captured Image - Disease Prediction:
+Bệnh A: 0.00%
+Bệnh B: 37.30%
+Bệnh C: 62.70%
+
+Captured Image - Disease Prediction:
+Bệnh A: 0.00%
+Bệnh B: 27.93%
+Bệnh C: 72.07%
+
+Captured Image - Disease Prediction:
+Bệnh A: 0.00%
+Bệnh B: 25.32%
+Bệnh C: 74.68%
+
+Captured Image - Disease Prediction:
+Bệnh A: 0.00%
+Bệnh B: 27.00%
+Bệnh C: 73.00%
+
+Captured Image - Disease Prediction:
+Bệnh A: 0.00%
+Bệnh B: 20.23%
+Bệnh C: 79.77%
+
+Captured Image - Disease Prediction:
+Bệnh A: 0.00%
+Bệnh B: 20.73%
+Bệnh C: 79.27%
+
+Captured Image - Disease Prediction:
+Bệnh A: 0.00%
+Bệnh B: 17.13%
+Bệnh C: 82.87%
+
+Captured Image - Disease Prediction:
+Bệnh A: 0.00%
+Bệnh B: 23.48%
+Bệnh C: 76.52%
+
+Captured Image - Disease Prediction:
+Bệnh A: 0.00%
+Bệnh B: 25.76%
+Bệnh C: 74.24%
+
+Captured Image - Disease Prediction:
+Bệnh A: 0.00%
+Bệnh B: 21.20%
+Bệnh C: 78.80%
+
+Captured Image - Disease Prediction:
+Bệnh A: 0.00%
+Bệnh B: 23.35%
+Bệnh C: 76.65%
+
+Captured Image - Disease Prediction:
+Bệnh A: 0.00%
+Bệnh B: 23.95%
+Bệnh C: 76.05%
+
+Captured Image - Disease Prediction:
+Bệnh A: 0.00%
+Bệnh B: 18.86%
+Bệnh C: 81.14%
+
+Captured Image - Disease Prediction:
+Bệnh A: 0.00%
+Bệnh B: 19.62%
+Bệnh C: 80.38%
+
+Captured Image - Disease Prediction:
+Bệnh A: 0.00%
+Bệnh B: 23.80%
+Bệnh C: 76.20%
+
+Captured Image - Disease Prediction:
+Bệnh A: 0.00%
+Bệnh B: 25.02%
+Bệnh C: 74.98%
+
+Captured Image - Disease Prediction:
+Bệnh A: 0.00%
+Bệnh B: 61.96%
+Bệnh C: 38.04%
+
+Captured Image - Disease Prediction:
+Bệnh A: 0.00%
+Bệnh B: 99.64%
+Bệnh C: 0.36%
+
+Captured Image - Disease Prediction:
+Bệnh A: 0.00%
+Bệnh B: 19.06%
+Bệnh C: 80.94%
+
+Captured Image - Disease Prediction:
+Bệnh A: 0.00%
+Bệnh B: 98.30%
+Bệnh C: 1.70%
+
+Captured Image - Disease Prediction:
+Bệnh A: 0.00%
+Bệnh B: 82.49%
+Bệnh C: 17.51%
+
+Captured Image - Disease Prediction:
+Bệnh A: 0.00%
+Bệnh B: 66.55%
+Bệnh C: 33.45%
+
+Captured Image - Disease Prediction:
+Bệnh A: 0.00%
+Bệnh B: 70.95%
+Bệnh C: 29.05%
+
+Captured Image - Disease Prediction:
+Bệnh A: 0.00%
+Bệnh B: 90.64%
+Bệnh C: 9.36%
+
+Captured Image - Disease Prediction:
+Bệnh A: 0.00%
+Bệnh B: 99.08%
+Bệnh C: 0.92%
+
+Captured Image - Disease Prediction:
+Bệnh A: 0.00%
+Bệnh B: 99.39%
+Bệnh C: 0.61%
+
+Captured Image - Disease Prediction:
+Bệnh A: 0.00%
+Bệnh B: 98.42%
+Bệnh C: 1.58%
+
+Captured Image - Disease Prediction:
+Bệnh A: 0.00%
+Bệnh B: 96.37%
+Bệnh C: 3.63%
+
+Captured Image - Disease Prediction:
+Bệnh A: 0.00%
+Bệnh B: 74.60%
+Bệnh C: 25.40%
+
+Captured Image - Disease Prediction:
+Bệnh A: 0.00%
+Bệnh B: 0.10%
+Bệnh C: 99.90%
+
+Captured Image - Disease Prediction:
+Bệnh A: 0.00%
+Bệnh B: 69.92%
+Bệnh C: 30.08%
+
+Captured Image - Disease Prediction:
+Bệnh A: 0.00%
+Bệnh B: 0.66%
+Bệnh C: 99.34%
+
+Captured Image - Disease Prediction:
+Bệnh A: 0.00%
+Bệnh B: 61.96%
+Bệnh C: 38.04%
+
+Captured Image - Disease Prediction:
+Bệnh A: 0.00%
+Bệnh B: 64.82%
+Bệnh C: 35.18%
+
+Captured Image - Disease Prediction:
+Bệnh A: 0.00%
+Bệnh B: 56.52%
+Bệnh C: 43.48%
+
+Captured Image - Disease Prediction:
+Bệnh A: 0.00%
+Bệnh B: 57.31%
+Bệnh C: 42.69%
+
+Captured Image - Disease Prediction:
+Bệnh A: 0.00%
+Bệnh B: 59.32%
+Bệnh C: 40.68%
+
+Captured Image - Disease Prediction:
+Bệnh A: 0.00%
+Bệnh B: 59.64%
+Bệnh C: 40.36%
+
+Captured Image - Disease Prediction:
+Bệnh A: 0.00%
+Bệnh B: 57.53%
+Bệnh C: 42.47%
+
+Captured Image - Disease Prediction:
+Bệnh A: 0.00%
+Bệnh B: 63.92%
+Bệnh C: 36.08%
+
+Captured Image - Disease Prediction:
+Bệnh A: 0.00%
+Bệnh B: 72.80%
+Bệnh C: 27.20%
+
+Captured Image - Disease Prediction:
+Bệnh A: 0.00%
+Bệnh B: 71.44%
+Bệnh C: 28.56%
+
+Captured Image - Disease Prediction:
+Bệnh A: 0.00%
+Bệnh B: 70.24%
+Bệnh C: 29.76%
+
+Captured Image - Disease Prediction:
+Bệnh A: 0.00%
+Bệnh B: 75.59%
+Bệnh C: 24.41%
+
+Captured Image - Disease Prediction:
+Bệnh A: 0.00%
+Bệnh B: 73.24%
+Bệnh C: 26.76%
+
+Captured Image - Disease Prediction:
+Bệnh A: 0.00%
+Bệnh B: 73.69%
+Bệnh C: 26.31%
+
+Captured Image - Disease Prediction:
+Bệnh A: 0.00%
+Bệnh B: 75.80%
+Bệnh C: 24.20%
+
+Captured Image - Disease Prediction:
+Bệnh A: 0.00%
+Bệnh B: 76.87%
+Bệnh C: 23.13%
+
+Captured Image - Disease Prediction:
+Bệnh A: 0.00%
+Bệnh B: 79.32%
+Bệnh C: 20.68%
+
+Captured Image - Disease Prediction:
+Bệnh A: 0.00%
+Bệnh B: 74.46%
+Bệnh C: 25.54%
+
+Captured Image - Disease Prediction:
+Bệnh A: 0.00%
+Bệnh B: 71.16%
+Bệnh C: 28.84%
+
+Captured Image - Disease Prediction:
+Bệnh A: 0.00%
+Bệnh B: 74.21%
+Bệnh C: 25.79%
+
+Captured Image - Disease Prediction:
+Bệnh A: 0.00%
+Bệnh B: 73.44%
+Bệnh C: 26.56%
+
+Captured Image - Disease Prediction:
+Bệnh A: 0.00%
+Bệnh B: 36.35%
+Bệnh C: 63.65%
+
+Captured Image - Disease Prediction:
+Bệnh A: 0.00%
+Bệnh B: 30.94%
+Bệnh C: 69.06%
+
+Captured Image - Disease Prediction:
+Bệnh A: 0.00%
+Bệnh B: 68.20%
+Bệnh C: 31.80%
+
+Captured Image - Disease Prediction:
+Bệnh A: 0.00%
+Bệnh B: 94.29%
+Bệnh C: 5.71%
+
+Captured Image - Disease Prediction:
+Bệnh A: 0.00%
+Bệnh B: 95.76%
+Bệnh C: 4.24%
+
+Captured Image - Disease Prediction:
+Bệnh A: 0.00%
+Bệnh B: 77.96%
+Bệnh C: 22.04%
+
+Captured Image - Disease Prediction:
+Bệnh A: 0.00%
+Bệnh B: 46.43%
+Bệnh C: 53.57%
+
+Captured Image - Disease Prediction:
+Bệnh A: 0.00%
+Bệnh B: 45.43%
+Bệnh C: 54.57%
+
+Captured Image - Disease Prediction:
+Bệnh A: 0.00%
+Bệnh B: 33.32%
+Bệnh C: 66.68%
+
+Captured Image - Disease Prediction:
+Bệnh A: 0.00%
+Bệnh B: 49.96%
+Bệnh C: 50.04%
+
+Captured Image - Disease Prediction:
+Bệnh A: 0.00%
+Bệnh B: 59.65%
+Bệnh C: 40.35%
+
+Captured Image - Disease Prediction:
+Bệnh A: 0.00%
+Bệnh B: 24.76%
+Bệnh C: 75.24%
+
+Captured Image - Disease Prediction:
+Bệnh A: 0.00%
+Bệnh B: 35.82%
+Bệnh C: 64.18%
+
+Captured Image - Disease Prediction:
+Bệnh A: 0.00%
+Bệnh B: 45.52%
+Bệnh C: 54.48%
+
+Captured Image - Disease Prediction:
+Bệnh A: 0.00%
+Bệnh B: 23.54%
+Bệnh C: 76.46%
+
+Captured Image - Disease Prediction:
+Bệnh A: 0.00%
+Bệnh B: 10.27%
+Bệnh C: 89.73%
+
+Captured Image - Disease Prediction:
+Bệnh A: 0.00%
+Bệnh B: 0.37%
+Bệnh C: 99.63%
+
+Captured Image - Disease Prediction:
+Bệnh A: 0.00%
+Bệnh B: 0.06%
+Bệnh C: 99.94%
+
+Captured Image - Disease Prediction:
+Bệnh A: 0.00%
+Bệnh B: 0.02%
+Bệnh C: 99.98%
+
+Captured Image - Disease Prediction:
+Bệnh A: 0.00%
+Bệnh B: 0.01%
+Bệnh C: 99.99%
+
+Captured Image - Disease Prediction:
+Bệnh A: 0.00%
+Bệnh B: 0.01%
+Bệnh C: 99.99%
+
+Captured Image - Disease Prediction:
+Bệnh A: 0.00%
+Bệnh B: 0.00%
+Bệnh C: 100.00%
+
+Captured Image - Disease Prediction:
+Bệnh A: 0.00%
+Bệnh B: 0.00%
+Bệnh C: 100.00%
+
+Captured Image - Disease Prediction:
+Bệnh A: 0.00%
+Bệnh B: 0.00%
+Bệnh C: 100.00%
+
+Captured Image - Disease Prediction:
+Bệnh A: 0.00%
+Bệnh B: 0.00%
+Bệnh C: 100.00%
+
+Captured Image - Disease Prediction:
+Bệnh A: 0.00%
+Bệnh B: 0.00%
+Bệnh C: 100.00%
+
+Captured Image - Disease Prediction:
+Bệnh A: 0.00%
+Bệnh B: 0.00%
+Bệnh C: 100.00%
+
+Captured Image - Disease Prediction:
+Bệnh A: 0.00%
+Bệnh B: 0.00%
+Bệnh C: 100.00%
+
+Captured Image - Disease Prediction:
+Bệnh A: 0.00%
+Bệnh B: 0.01%
+Bệnh C: 99.99%
+
+Captured Image - Disease Prediction:
+Bệnh A: 0.00%
+Bệnh B: 0.03%
+Bệnh C: 99.97%
+
+Captured Image - Disease Prediction:
+Bệnh A: 0.00%
+Bệnh B: 0.79%
+Bệnh C: 99.21%
+
+Captured Image - Disease Prediction:
+Bệnh A: 0.00%
+Bệnh B: 0.90%
+Bệnh C: 99.10%
+
+Captured Image - Disease Prediction:
+Bệnh A: 0.00%
+Bệnh B: 0.65%
+Bệnh C: 99.35%
+
+Captured Image - Disease Prediction:
+Bệnh A: 0.00%
+Bệnh B: 0.21%
+Bệnh C: 99.79%
+
+Captured Image - Disease Prediction:
+Bệnh A: 0.00%
+Bệnh B: 0.01%
+Bệnh C: 99.99%
+
+Captured Image - Disease Prediction:
+Bệnh A: 0.00%
+Bệnh B: 0.01%
+Bệnh C: 99.99%
+
+Captured Image - Disease Prediction:
+Bệnh A: 0.00%
+Bệnh B: 0.00%
+Bệnh C: 100.00%
+
+Captured Image - Disease Prediction:
+Bệnh A: 0.00%
+Bệnh B: 0.00%
+Bệnh C: 100.00%
+
+Captured Image - Disease Prediction:
+Bệnh A: 0.00%
+Bệnh B: 0.02%
+Bệnh C: 99.98%
+
+Captured Image - Disease Prediction:
+Bệnh A: 0.00%
+Bệnh B: 0.01%
+Bệnh C: 99.99%
+
+Captured Image - Disease Prediction:
+Bệnh A: 0.00%
+Bệnh B: 0.03%
+Bệnh C: 99.97%
+
+Captured Image - Disease Prediction:
+Bệnh A: 0.00%
+Bệnh B: 0.07%
+Bệnh C: 99.93%
+
+Captured Image - Disease Prediction:
+Bệnh A: 0.00%
+Bệnh B: 0.06%
+Bệnh C: 99.94%
+
+Captured Image - Disease Prediction:
+Bệnh A: 0.00%
+Bệnh B: 0.09%
+Bệnh C: 99.91%
+
+Captured Image - Disease Prediction:
+Bệnh A: 0.01%
+Bệnh B: 99.37%
+Bệnh C: 0.62%
+
+Captured Image - Disease Prediction:
+Bệnh A: 0.00%
+Bệnh B: 0.00%
+Bệnh C: 100.00%
+
+Captured Image - Disease Prediction:
+Bệnh A: 0.00%
+Bệnh B: 0.00%
+Bệnh C: 100.00%
+
+Captured Image - Disease Prediction:
+Bệnh A: 0.00%
+Bệnh B: 0.00%
+Bệnh C: 100.00%
+
+Captured Image - Disease Prediction:
+Bệnh A: 0.00%
+Bệnh B: 0.02%
+Bệnh C: 99.98%
+
+Captured Image - Disease Prediction:
+Bệnh A: 0.00%
+Bệnh B: 0.17%
+Bệnh C: 99.83%
+
+Captured Image - Disease Prediction:
+Bệnh A: 0.00%
+Bệnh B: 4.19%
+Bệnh C: 95.81%
+
+Captured Image - Disease Prediction:
+Bệnh A: 0.00%
+Bệnh B: 0.10%
+Bệnh C: 99.90%
+
+Captured Image - Disease Prediction:
+Bệnh A: 0.00%
+Bệnh B: 0.02%
+Bệnh C: 99.98%
+
+Captured Image - Disease Prediction:
+Bệnh A: 0.00%
+Bệnh B: 0.02%
+Bệnh C: 99.98%
+
+Captured Image - Disease Prediction:
+Bệnh A: 0.00%
+Bệnh B: 0.01%
+Bệnh C: 99.99%
+
+Captured Image - Disease Prediction:
+Bệnh A: 0.00%
+Bệnh B: 0.01%
+Bệnh C: 99.99%
+
+Captured Image - Disease Prediction:
+Bệnh A: 0.00%
+Bệnh B: 0.01%
+Bệnh C: 99.99%
+
+Captured Image - Disease Prediction:
+Bệnh A: 0.92%
+Bệnh B: 99.07%
+Bệnh C: 0.01%
+
+Captured Image - Disease Prediction:
+Bệnh A: 0.00%
+Bệnh B: 0.04%
+Bệnh C: 99.96%
+
+Captured Image - Disease Prediction:
+Bệnh A: 0.00%
+Bệnh B: 0.00%
+Bệnh C: 100.00%
+
+Captured Image - Disease Prediction:
+Bệnh A: 0.00%
+Bệnh B: 0.00%
+Bệnh C: 100.00%
+
+Captured Image - Disease Prediction:
+Bệnh A: 0.00%
+Bệnh B: 50.94%
+Bệnh C: 49.05%
+
+Captured Image - Disease Prediction:
+Bệnh A: 0.00%
+Bệnh B: 83.45%
+Bệnh C: 16.55%
+
+Captured Image - Disease Prediction:
+Bệnh A: 0.00%
+Bệnh B: 99.52%
+Bệnh C: 0.48%
+
+Captured Image - Disease Prediction:
+Bệnh A: 0.00%
+Bệnh B: 98.25%
+Bệnh C: 1.75%
+
+Captured Image - Disease Prediction:
+Bệnh A: 0.00%
+Bệnh B: 91.23%
+Bệnh C: 8.77%
+
+Captured Image - Disease Prediction:
+Bệnh A: 0.00%
+Bệnh B: 91.23%
+Bệnh C: 8.77%
+
+Captured Image - Disease Prediction:
+Bệnh A: 0.00%
+Bệnh B: 91.23%
+Bệnh C: 8.77%
+
+Captured Image - Disease Prediction:
+Bệnh A: 0.00%
+Bệnh B: 91.23%
+Bệnh C: 8.77%
+
+Captured Image - Disease Prediction:
+Bệnh A: 0.00%
+Bệnh B: 91.23%
+Bệnh C: 8.77%
+
+Captured Image - Disease Prediction:
+Bệnh A: 0.00%
+Bệnh B: 91.23%
+Bệnh C: 8.77%
+
+Captured Image - Disease Prediction:
+Bệnh A: 0.00%
+Bệnh B: 39.78%
+Bệnh C: 60.22%
+
+Captured Image - Disease Prediction:
+Bệnh A: 0.00%
+Bệnh B: 0.60%
+Bệnh C: 99.40%
+
+Captured Image - Disease Prediction:
+Bệnh A: 0.00%
+Bệnh B: 0.10%
+Bệnh C: 99.90%
+
+Captured Image - Disease Prediction:
+Bệnh A: 0.00%
+Bệnh B: 0.09%
+Bệnh C: 99.91%
+
+Captured Image - Disease Prediction:
+Bệnh A: 0.00%
+Bệnh B: 0.12%
+Bệnh C: 99.88%
+
+Captured Image - Disease Prediction:
+Bệnh A: 0.00%
+Bệnh B: 0.09%
+Bệnh C: 99.91%
+
+Captured Image - Disease Prediction:
+Bệnh A: 0.00%
+Bệnh B: 0.14%
+Bệnh C: 99.86%
+
+Captured Image - Disease Prediction:
+Bệnh A: 0.00%
+Bệnh B: 0.08%
+Bệnh C: 99.92%
+
+Captured Image - Disease Prediction:
+Bệnh A: 0.00%
+Bệnh B: 0.08%
+Bệnh C: 99.92%
+
+Captured Image - Disease Prediction:
+Bệnh A: 0.00%
+Bệnh B: 0.10%
+Bệnh C: 99.90%
+
+Captured Image - Disease Prediction:
+Bệnh A: 0.00%
+Bệnh B: 0.10%
+Bệnh C: 99.90%
+
+Captured Image - Disease Prediction:
+Bệnh A: 0.00%
+Bệnh B: 0.09%
+Bệnh C: 99.91%
+
+Captured Image - Disease Prediction:
+Bệnh A: 0.00%
+Bệnh B: 0.06%
+Bệnh C: 99.94%
+
+Captured Image - Disease Prediction:
+Bệnh A: 0.00%
+Bệnh B: 0.53%
+Bệnh C: 99.47%
+
+Captured Image - Disease Prediction:
+Bệnh A: 0.00%
+Bệnh B: 0.39%
+Bệnh C: 99.61%
+
+Captured Image - Disease Prediction:
+Bệnh A: 0.00%
+Bệnh B: 0.38%
+Bệnh C: 99.62%
+
+Captured Image - Disease Prediction:
+Bệnh A: 0.00%
+Bệnh B: 97.66%
+Bệnh C: 2.33%
+
+Captured Image - Disease Prediction:
+Bệnh A: 0.00%
+Bệnh B: 96.27%
+Bệnh C: 3.73%
+
+Captured Image - Disease Prediction:
+Bệnh A: 0.00%
+Bệnh B: 96.82%
+Bệnh C: 3.18%
+
+Captured Image - Disease Prediction:
+Bệnh A: 0.00%
+Bệnh B: 98.97%
+Bệnh C: 1.03%
+
+Captured Image - Disease Prediction:
+Bệnh A: 0.00%
+Bệnh B: 98.99%
+Bệnh C: 1.01%
+
+Captured Image - Disease Prediction:
+Bệnh A: 0.00%
+Bệnh B: 98.48%
+Bệnh C: 1.52%
+
+Captured Image - Disease Prediction:
+Bệnh A: 0.00%
+Bệnh B: 99.02%
+Bệnh C: 0.98%
+
+Captured Image - Disease Prediction:
+Bệnh A: 0.00%
+Bệnh B: 99.07%
+Bệnh C: 0.92%
+
+Captured Image - Disease Prediction:
+Bệnh A: 0.00%
+Bệnh B: 99.08%
+Bệnh C: 0.92%
+
+Captured Image - Disease Prediction:
+Bệnh A: 0.00%
+Bệnh B: 99.00%
+Bệnh C: 1.00%
+
+Captured Image - Disease Prediction:
+Bệnh A: 0.00%
+Bệnh B: 87.76%
+Bệnh C: 12.24%
+
+Captured Image - Disease Prediction:
+Bệnh A: 0.00%
+Bệnh B: 72.65%
+Bệnh C: 27.34%
+
+Captured Image - Disease Prediction:
+Bệnh A: 0.00%
+Bệnh B: 76.99%
+Bệnh C: 23.01%
+
+Captured Image - Disease Prediction:
+Bệnh A: 0.00%
+Bệnh B: 66.37%
+Bệnh C: 33.63%
+
+Captured Image - Disease Prediction:
+Bệnh A: 0.00%
+Bệnh B: 41.91%
+Bệnh C: 58.09%
+
